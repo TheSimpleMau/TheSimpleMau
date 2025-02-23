@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ![TheSimpleMau's Stats](https://github-readme-stats.vercel.app/api?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+<br>
 ![TheSimpleMau's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSimpleMau&theme=blueberry&hide_border=false)
+<br>
 ![TheSimpleMau's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 <!--
