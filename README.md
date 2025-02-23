@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-![TheSimpleMau's Stats](https://github-readme-stats.vercel.app/api?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-<br>
-![TheSimpleMau's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSimpleMau&theme=blueberry&hide_border=false)
-<br>
-![TheSimpleMau's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="TheSimpleMau's Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSimpleMau&theme=blueberry&hide_border=false" alt="TheSimpleMau's Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSimpleMau&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="TheSimpleMau's Top Languages">
+</p>
 
 <!--
 **TheSimpleMau/TheSimpleMau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
